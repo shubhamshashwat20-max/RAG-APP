@@ -47,6 +47,3 @@ Search results show:
 | Language | Python |
 
 ---
-
-## 📂 Project Structure
-
